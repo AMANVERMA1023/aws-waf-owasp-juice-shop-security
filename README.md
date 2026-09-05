@@ -155,7 +155,7 @@ Normal application requests were allowed to continue to the backend application.
 
  🚨 Controlled Suspicious SQL Injection-Like Patterns
 
- ![Blocked SQL Injection Request](03-waf-sampled-request-block.jpg)
+ ![Blocked SQL Injection Request](03-waf-sampled-request-blocked.jpg)
 
 Suspicious request patterns were sent through the same infrastructure.
 
